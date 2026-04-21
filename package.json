@@ -1,0 +1,13 @@
+{
+  "name": "altcoin-korea-report",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-daily-post.mjs",
+    "check": "node scripts/generate-daily-post.mjs --dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

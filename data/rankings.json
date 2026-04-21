@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "symbol": "AXL",
+    "koreanName": "엑셀라",
+    "priceText": "₩86.5",
+    "volumeText": "109.0억원",
+    "changeText": "+7.32%"
+  },
+  {
+    "rank": 2,
+    "symbol": "FLOCK",
+    "koreanName": "플록",
+    "priceText": "₩92.7",
+    "volumeText": "109.6억원",
+    "changeText": "+4.86%"
+  },
+  {
+    "rank": 3,
+    "symbol": "PIEVERSE",
+    "koreanName": "파이버스",
+    "priceText": "₩1,497",
+    "volumeText": "3489.1억원",
+    "changeText": "+4.83%"
+  },
+  {
+    "rank": 4,
+    "symbol": "IP",
+    "koreanName": "스토리",
+    "priceText": "₩780",
+    "volumeText": "120.9억원",
+    "changeText": "+3.59%"
+  },
+  {
+    "rank": 5,
+    "symbol": "ZKP",
+    "koreanName": "지케이패스",
+    "priceText": "₩106",
+    "volumeText": "9.4억원",
+    "changeText": "+2.91%"
+  },
+  {
+    "rank": 6,
+    "symbol": "RAY",
+    "koreanName": "레이디움",
+    "priceText": "₩985",
+    "volumeText": "5.4억원",
+    "changeText": "+1.76%"
+  },
+  {
+    "rank": 7,
+    "symbol": "1INCH",
+    "koreanName": "1인치네트워크",
+    "priceText": "₩141",
+    "volumeText": "1.3억원",
+    "changeText": "+1.44%"
+  },
+  {
+    "rank": 8,
+    "symbol": "HOLO",
+    "koreanName": "홀로월드에이아이",
+    "priceText": "₩86.4",
+    "volumeText": "9.0억원",
+    "changeText": "+1.29%"
+  },
+  {
+    "rank": 9,
+    "symbol": "PUMP",
+    "koreanName": "펌프펀",
+    "priceText": "₩2.72",
+    "volumeText": "5.1억원",
+    "changeText": "+1.12%"
+  },
+  {
+    "rank": 10,
+    "symbol": "PLUME",
+    "koreanName": "플룸",
+    "priceText": "₩18.7",
+    "volumeText": "88.7억원",
+    "changeText": "+1.08%"
+  }
+]
