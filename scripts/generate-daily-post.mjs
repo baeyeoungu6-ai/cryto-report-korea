@@ -5,6 +5,8 @@ import { fileURLToPath } from "node:url";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dryRun = process.argv.includes("--dry-run");
 const force = process.argv.includes("--force");
+const sitemapOnly = process.argv.includes("--sitemap-only");
+const siteUrl = "https://altcoinreport.net";
 const today = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Asia/Seoul",
   year: "numeric",
@@ -15,6 +17,8 @@ const today = new Intl.DateTimeFormat("en-CA", {
 const articlePath = path.join(root, "data", "articles.json");
 const rankingPath = path.join(root, "data", "rankings.json");
 const postsDir = path.join(root, "posts");
+const sitemapPath = path.join(root, "sitemap.xml");
+const robotsPath = path.join(root, "robots.txt");
 
 const marketNameOverrides = {
   BTC: "비트코인",
@@ -109,6 +113,7 @@ function navHtml() {
       <nav class="nav-links" aria-label="주요 메뉴">
         <a href="/">홈</a>
         <a href="/reports.html">리포트</a>
+        <a href="/referral.html">거래소 혜택</a>
         <a href="/about.html">소개</a>
         <a href="/privacy.html">개인정보처리방침</a>
         <a href="/disclaimer.html">면책고지</a>
@@ -131,6 +136,7 @@ function buildArticleHtml(article) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>${title} | 알트코인 리포트 코리아</title>
     <meta name="description" content="${summary}">
+    <link rel="canonical" href="${absoluteUrl(article.url)}">
     <link rel="icon" type="image/webp" href="/alt.webp">
     <link rel="apple-touch-icon" href="/alt.webp">
     <link rel="stylesheet" href="/styles.css">
@@ -174,6 +180,52 @@ function buildArticleHtml(article) {
 `;
 }
 
+function absoluteUrl(urlPath) {
+  return new URL(urlPath, siteUrl).toString();
+}
+
+function sitemapEntry({ loc, lastmod, changefreq, priority }) {
+  return `  <url>
+    <loc>${escapeHtml(absoluteUrl(loc))}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>${changefreq}</changefreq>
+    <priority>${priority}</priority>
+  </url>`;
+}
+
+async function writeSearchFiles(articles) {
+  const staticPages = [
+    { loc: "/", lastmod: today, changefreq: "daily", priority: "1.0" },
+    { loc: "/reports.html", lastmod: today, changefreq: "daily", priority: "0.9" },
+    { loc: "/referral.html", lastmod: today, changefreq: "monthly", priority: "0.7" },
+    { loc: "/about.html", lastmod: today, changefreq: "monthly", priority: "0.5" },
+    { loc: "/privacy.html", lastmod: today, changefreq: "yearly", priority: "0.3" },
+    { loc: "/disclaimer.html", lastmod: today, changefreq: "yearly", priority: "0.3" }
+  ];
+
+  const postPages = articles.map((article) => ({
+    loc: article.url,
+    lastmod: article.date,
+    changefreq: "monthly",
+    priority: "0.6"
+  }));
+
+  const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${[...staticPages, ...postPages].map(sitemapEntry).join("\n")}
+</urlset>
+`;
+
+  const robots = `User-agent: *
+Allow: /
+
+Sitemap: ${absoluteUrl("/sitemap.xml")}
+`;
+
+  await writeFile(sitemapPath, sitemap, "utf8");
+  await writeFile(robotsPath, robots, "utf8");
+}
+
 async function getRankedMarkets() {
   const markets = await fetchJson("https://api.upbit.com/v1/market/all?isDetails=false");
   const krwMarkets = markets
@@ -209,6 +261,12 @@ function toRanking(item, index) {
 
 async function main() {
   const existing = await loadArticles();
+  if (sitemapOnly) {
+    await writeSearchFiles(existing);
+    console.log("Generated sitemap.xml and robots.txt");
+    return;
+  }
+
   const ranked = await getRankedMarkets();
   if (!ranked.length) throw new Error("No KRW market ticker found from Upbit.");
 
@@ -223,6 +281,7 @@ async function main() {
 
   const hasToday = existing.some((article) => article.date === today);
   if (hasToday && !force) {
+    await writeSearchFiles(existing);
     console.log(`Article for ${today} already exists. Rankings updated.`);
     return;
   }
@@ -252,6 +311,7 @@ async function main() {
   await mkdir(postsDir, { recursive: true });
   await writeFile(path.join(postsDir, slugFor(today, symbol)), buildArticleHtml(article), "utf8");
   await writeFile(articlePath, `${JSON.stringify(nextArticles, null, 2)}\n`, "utf8");
+  await writeSearchFiles(nextArticles);
   console.log(`Generated ${article.url}`);
 }
 
