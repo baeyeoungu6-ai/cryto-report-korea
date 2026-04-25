@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-04-25",
+    "symbol": "SOON",
+    "koreanName": "쑨",
+    "rank": 1,
+    "title": "쑨(SOON) 업비트 상승률 1위 리포트",
+    "summary": "쑨은 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩365",
+    "volumeText": "704.4억원",
+    "changeText": "+38.26%",
+    "url": "/posts/2026-04-25-soon.html"
+  },
+  {
     "date": "2026-04-24",
     "symbol": "SKR",
     "koreanName": "시커",
