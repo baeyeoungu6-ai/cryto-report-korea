@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-04-27",
+    "symbol": "SONIC",
+    "koreanName": "소닉SVM",
+    "rank": 1,
+    "title": "소닉SVM(SONIC) 업비트 상승률 1위 리포트",
+    "summary": "소닉SVM는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩65.5",
+    "volumeText": "985.9억원",
+    "changeText": "+14.51%",
+    "url": "/posts/2026-04-27-sonic.html"
+  },
+  {
     "date": "2026-04-26",
     "symbol": "ORCA",
     "koreanName": "오르카",
