@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-04-30",
+    "symbol": "CPOOL",
+    "koreanName": "클리어풀",
+    "rank": 2,
+    "title": "클리어풀(CPOOL) 업비트 상승률 2위 리포트",
+    "summary": "클리어풀은 오늘 업비트 KRW 마켓 상승률 2위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩39.8",
+    "volumeText": "35.2억원",
+    "changeText": "+4.46%",
+    "url": "/posts/2026-04-30-cpool.html"
+  },
+  {
     "date": "2026-04-29",
     "symbol": "API3",
     "koreanName": "에이피아이쓰리",
