@@ -298,6 +298,20 @@ h3 {
   margin-left: auto;
 }
 
+.post-referral {
+  margin: 24px 0 28px;
+}
+
+.post-referral .inline-referral {
+  justify-self: start;
+  width: min(100%, 580px);
+}
+
+.post-referral .inline-referral img {
+  margin-left: 0;
+  object-position: left top;
+}
+
 .rank-section {
   max-width: 1500px;
   margin: 0 auto;
