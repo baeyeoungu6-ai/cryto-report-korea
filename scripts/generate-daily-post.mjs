@@ -121,6 +121,16 @@ function navHtml() {
     </header>`;
 }
 
+function referralBannerHtml() {
+  return `
+        <div class="inline-referral-wrap post-referral">
+          <a class="inline-referral" href="/referral.html" aria-label="&#44144;&#47000;&#49548; &#54812;&#53469; &#54168;&#51060;&#51648;&#47196; &#51060;&#46041;">
+            <img src="/futuressign.webp" alt="&#44144;&#47000;&#49548; &#49688;&#49688;&#47308; &#54624;&#51064; &#48143; &#48372;&#45320;&#49828; &#54812;&#53469;">
+          </a>
+          <p class="referral-caption">&#48176;&#45320;&#47484; &#53364;&#47533;&#54616;&#47732; &#44144;&#47000;&#49548; &#54812;&#53469; &#50504;&#45236;&#47484; &#48380; &#49688; &#51080;&#49845;&#45768;&#45796;.</p>
+        </div>`;
+}
+
 function buildArticleHtml(article) {
   const title = escapeHtml(article.title);
   const summary = escapeHtml(article.summary);
@@ -148,6 +158,7 @@ function buildArticleHtml(article) {
         <p class="eyebrow">Upbit daily rank ${article.rank}</p>
         <h1>${title}</h1>
         <p class="hero-text">${summary}</p>
+        ${referralBannerHtml()}
         <dl>
           <div>
             <dt>업비트 순위</dt>
