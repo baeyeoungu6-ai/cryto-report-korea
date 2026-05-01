@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-05-01",
+    "symbol": "DRIFT",
+    "koreanName": "드리프트",
+    "rank": 2,
+    "title": "드리프트(DRIFT) 업비트 상승률 2위 리포트",
+    "summary": "드리프트는 오늘 업비트 KRW 마켓 상승률 2위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩90.9",
+    "volumeText": "1556.2억원",
+    "changeText": "+7.83%",
+    "url": "/posts/2026-05-01-drift.html"
+  },
+  {
     "date": "2026-04-30",
     "symbol": "CPOOL",
     "koreanName": "클리어풀",
