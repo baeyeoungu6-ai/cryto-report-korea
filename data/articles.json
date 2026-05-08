@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-05-08",
+    "symbol": "HOLO",
+    "koreanName": "홀로월드에이아이",
+    "rank": 2,
+    "title": "홀로월드에이아이(HOLO) 업비트 상승률 2위 리포트",
+    "summary": "홀로월드에이아이는 오늘 업비트 KRW 마켓 상승률 2위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩111",
+    "volumeText": "35.6억원",
+    "changeText": "+8.82%",
+    "url": "/posts/2026-05-08-holo.html"
+  },
+  {
     "date": "2026-05-07",
     "symbol": "JST",
     "koreanName": "저스트",
