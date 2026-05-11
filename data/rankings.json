@@ -1,82 +1,82 @@
 [
   {
     "rank": 1,
-    "symbol": "LAYER",
-    "koreanName": "솔레이어",
-    "priceText": "₩165",
-    "volumeText": "616.4억원",
-    "changeText": "+13.01%"
+    "symbol": "SONIC",
+    "koreanName": "소닉SVM",
+    "priceText": "₩72.2",
+    "volumeText": "851.3억원",
+    "changeText": "+13.70%"
   },
   {
     "rank": 2,
-    "symbol": "PROS",
-    "koreanName": "파로스",
-    "priceText": "₩1,593",
-    "volumeText": "4657.3억원",
-    "changeText": "+7.27%"
+    "symbol": "KITE",
+    "koreanName": "카이트",
+    "priceText": "₩279",
+    "volumeText": "96.9억원",
+    "changeText": "+7.72%"
   },
   {
     "rank": 3,
-    "symbol": "SONIC",
-    "koreanName": "소닉SVM",
-    "priceText": "₩62.7",
-    "volumeText": "262.4억원",
-    "changeText": "+6.09%"
+    "symbol": "LAYER",
+    "koreanName": "솔레이어",
+    "priceText": "₩195",
+    "volumeText": "1916.5억원",
+    "changeText": "+6.56%"
   },
   {
     "rank": 4,
-    "symbol": "KNC",
-    "koreanName": "카이버네트워크",
-    "priceText": "₩238",
-    "volumeText": "40.1억원",
-    "changeText": "+5.78%"
+    "symbol": "BLEND",
+    "koreanName": "플루언트",
+    "priceText": "₩191",
+    "volumeText": "122.4억원",
+    "changeText": "+5.52%"
   },
   {
     "rank": 5,
-    "symbol": "BLUR",
-    "koreanName": "블러",
-    "priceText": "₩40.5",
-    "volumeText": "19.4억원",
-    "changeText": "+4.65%"
+    "symbol": "MBL",
+    "koreanName": "무비블록",
+    "priceText": "₩1.49",
+    "volumeText": "101.2억원",
+    "changeText": "+4.93%"
   },
   {
     "rank": 6,
-    "symbol": "BLEND",
-    "koreanName": "플루언트",
-    "priceText": "₩186",
-    "volumeText": "42.9억원",
-    "changeText": "+4.49%"
+    "symbol": "MOVE",
+    "koreanName": "무브먼트",
+    "priceText": "₩30",
+    "volumeText": "138.3억원",
+    "changeText": "+4.17%"
   },
   {
     "rank": 7,
-    "symbol": "WAL",
-    "koreanName": "월러스",
-    "priceText": "₩124",
-    "volumeText": "12.4억원",
-    "changeText": "+4.20%"
-  },
-  {
-    "rank": 8,
-    "symbol": "ERA",
-    "koreanName": "칼데라",
-    "priceText": "₩220",
-    "volumeText": "16.0억원",
+    "symbol": "CTC",
+    "koreanName": "크레딧코인",
+    "priceText": "₩248",
+    "volumeText": "42.4억원",
     "changeText": "+3.77%"
   },
   {
+    "rank": 8,
+    "symbol": "PIEVERSE",
+    "koreanName": "파이버스",
+    "priceText": "₩1,227",
+    "volumeText": "165.3억원",
+    "changeText": "+3.54%"
+  },
+  {
     "rank": 9,
-    "symbol": "XEC",
-    "koreanName": "이캐시",
-    "priceText": "₩0.01",
-    "volumeText": "8.4억원",
-    "changeText": "+3.57%"
+    "symbol": "ONDO",
+    "koreanName": "온도파이낸스",
+    "priceText": "₩641",
+    "volumeText": "665.1억원",
+    "changeText": "+3.39%"
   },
   {
     "rank": 10,
-    "symbol": "PIEVERSE",
-    "koreanName": "파이버스",
-    "priceText": "₩1,172",
-    "volumeText": "73.1억원",
-    "changeText": "+2.81%"
+    "symbol": "XEC",
+    "koreanName": "이캐시",
+    "priceText": "₩0.01",
+    "volumeText": "610.5억원",
+    "changeText": "+3.15%"
   }
 ]
