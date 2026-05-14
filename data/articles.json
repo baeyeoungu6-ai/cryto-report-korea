@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-05-14",
+    "symbol": "HP",
+    "koreanName": "히포프로토콜",
+    "rank": 1,
+    "title": "히포프로토콜(HP) 업비트 상승률 1위 리포트",
+    "summary": "히포프로토콜은 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩27.5",
+    "volumeText": "82.1억원",
+    "changeText": "+17.02%",
+    "url": "/posts/2026-05-14-hp.html"
+  },
+  {
     "date": "2026-05-13",
     "symbol": "AZTEC",
     "koreanName": "아즈텍",
