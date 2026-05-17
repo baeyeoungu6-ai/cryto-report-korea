@@ -1,82 +1,82 @@
 [
   {
     "rank": 1,
-    "symbol": "DKA",
-    "koreanName": "디카르고",
-    "priceText": "₩9.62",
-    "volumeText": "114.7억원",
-    "changeText": "+11.21%"
+    "symbol": "VVV",
+    "koreanName": "베니스토큰",
+    "priceText": "₩20,890",
+    "volumeText": "41.4억원",
+    "changeText": "+6.75%"
   },
   {
     "rank": 2,
-    "symbol": "ORCA",
-    "koreanName": "오르카",
-    "priceText": "₩2,320",
-    "volumeText": "173.2억원",
-    "changeText": "+6.76%"
+    "symbol": "META",
+    "koreanName": "메타디움",
+    "priceText": "₩16.1",
+    "volumeText": "320.4억원",
+    "changeText": "+6.62%"
   },
   {
     "rank": 3,
-    "symbol": "API3",
-    "koreanName": "에이피아이쓰리",
-    "priceText": "₩533",
-    "volumeText": "10.7억원",
-    "changeText": "+3.29%"
+    "symbol": "BREV",
+    "koreanName": "브레비스",
+    "priceText": "₩174",
+    "volumeText": "7.3억원",
+    "changeText": "+3.57%"
   },
   {
     "rank": 4,
-    "symbol": "GLM",
-    "koreanName": "골렘",
-    "priceText": "₩220",
-    "volumeText": "21.7억원",
-    "changeText": "+3.29%"
+    "symbol": "FLUID",
+    "koreanName": "플루이드",
+    "priceText": "₩2,424",
+    "volumeText": "4.1억원",
+    "changeText": "+3.46%"
   },
   {
     "rank": 5,
-    "symbol": "AZTEC",
-    "koreanName": "아즈텍",
-    "priceText": "₩32.1",
-    "volumeText": "24.4억원",
-    "changeText": "+2.88%"
+    "symbol": "PENDLE",
+    "koreanName": "펜들",
+    "priceText": "₩2,829",
+    "volumeText": "10.9억원",
+    "changeText": "+3.40%"
   },
   {
     "rank": 6,
-    "symbol": "SOMI",
-    "koreanName": "솜니아",
-    "priceText": "₩259",
-    "volumeText": "4.5억원",
-    "changeText": "+2.78%"
+    "symbol": "SONIC",
+    "koreanName": "소닉SVM",
+    "priceText": "₩61.1",
+    "volumeText": "53.4억원",
+    "changeText": "+3.38%"
   },
   {
     "rank": 7,
-    "symbol": "BREV",
-    "koreanName": "브레비스",
-    "priceText": "₩180",
-    "volumeText": "9.1억원",
-    "changeText": "+2.27%"
+    "symbol": "MLK",
+    "koreanName": "밀크",
+    "priceText": "₩77.2",
+    "volumeText": "22.9억원",
+    "changeText": "+2.12%"
   },
   {
     "rank": 8,
-    "symbol": "NXPC",
-    "koreanName": "넥스페이스",
-    "priceText": "₩516",
-    "volumeText": "5.6억원",
-    "changeText": "+2.18%"
+    "symbol": "OPEN",
+    "koreanName": "오픈렛저",
+    "priceText": "₩243",
+    "volumeText": "31.2억원",
+    "changeText": "+2.10%"
   },
   {
     "rank": 9,
-    "symbol": "ZBT",
-    "koreanName": "제로베이스",
-    "priceText": "₩240",
-    "volumeText": "104.3억원",
-    "changeText": "+2.13%"
+    "symbol": "MANTRA",
+    "koreanName": "만트라",
+    "priceText": "₩14.7",
+    "volumeText": "9.8억원",
+    "changeText": "+2.08%"
   },
   {
     "rank": 10,
-    "symbol": "KERNEL",
-    "koreanName": "커널다오",
-    "priceText": "₩102",
-    "volumeText": "42.1억원",
-    "changeText": "+2.00%"
+    "symbol": "NXPC",
+    "koreanName": "넥스페이스",
+    "priceText": "₩516",
+    "volumeText": "8.9억원",
+    "changeText": "+1.98%"
   }
 ]
