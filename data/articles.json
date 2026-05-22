@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-05-22",
+    "symbol": "META",
+    "koreanName": "메타디움",
+    "rank": 1,
+    "title": "메타디움(META) 업비트 상승률 1위 리포트",
+    "summary": "메타디움은 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩17.4",
+    "volumeText": "149.4억원",
+    "changeText": "+24.29%",
+    "url": "/posts/2026-05-22-meta.html"
+  },
+  {
     "date": "2026-05-21",
     "symbol": "MEGA",
     "koreanName": "메가이더",
