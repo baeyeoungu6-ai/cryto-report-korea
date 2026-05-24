@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-05-24",
+    "symbol": "IN",
+    "koreanName": "인피닛",
+    "rank": 1,
+    "title": "인피닛(IN) 업비트 상승률 1위 리포트",
+    "summary": "인피닛은 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩155",
+    "volumeText": "517.6억원",
+    "changeText": "+17.42%",
+    "url": "/posts/2026-05-24-in.html"
+  },
+  {
     "date": "2026-05-23",
     "symbol": "MTL",
     "koreanName": "메탈",
