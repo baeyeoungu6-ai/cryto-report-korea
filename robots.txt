@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /data
-Disallow: /wb-admin
+Allow: /
 
-User-agent: bingbot
-Crawl-delay: 20
+Sitemap: https://altcoinreport.net/sitemap.xml

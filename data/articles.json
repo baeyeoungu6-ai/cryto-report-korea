@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-02",
+    "symbol": "WLD",
+    "koreanName": "월드코인",
+    "rank": 1,
+    "title": "월드코인(WLD) 업비트 상승률 1위 리포트",
+    "summary": "월드코인은 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩691",
+    "volumeText": "1102.3억원",
+    "changeText": "+8.14%",
+    "url": "/posts/2026-06-02-wld.html"
+  },
+  {
     "date": "2026-06-01",
     "symbol": "WAL",
     "koreanName": "월러스",
