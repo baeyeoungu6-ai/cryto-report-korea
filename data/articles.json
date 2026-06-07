@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-07",
+    "symbol": "LA",
+    "koreanName": "라그랑주",
+    "rank": 3,
+    "title": "라그랑주(LA) 업비트 상승률 3위 리포트",
+    "summary": "라그랑주는 오늘 업비트 KRW 마켓 상승률 3위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩118",
+    "volumeText": "38.4억원",
+    "changeText": "+9.26%",
+    "url": "/posts/2026-06-07-la.html"
+  },
+  {
     "date": "2026-06-06",
     "symbol": "HP",
     "koreanName": "히포프로토콜",
