@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-08",
+    "symbol": "PROVE",
+    "koreanName": "서싱트",
+    "rank": 1,
+    "title": "서싱트(PROVE) 업비트 상승률 1위 리포트",
+    "summary": "서싱트는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩299",
+    "volumeText": "29.9억원",
+    "changeText": "+9.93%",
+    "url": "/posts/2026-06-08-prove.html"
+  },
+  {
     "date": "2026-06-07",
     "symbol": "LA",
     "koreanName": "라그랑주",
