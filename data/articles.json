@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-09",
+    "symbol": "MOVE",
+    "koreanName": "무브먼트",
+    "rank": 1,
+    "title": "무브먼트(MOVE) 업비트 상승률 1위 리포트",
+    "summary": "무브먼트는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩23.1",
+    "volumeText": "1440.0억원",
+    "changeText": "+12.68%",
+    "url": "/posts/2026-06-09-move.html"
+  },
+  {
     "date": "2026-06-08",
     "symbol": "PROVE",
     "koreanName": "서싱트",
