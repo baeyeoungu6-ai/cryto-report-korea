@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-10",
+    "symbol": "STRAX",
+    "koreanName": "저트라",
+    "rank": 1,
+    "title": "저트라(STRAX) 업비트 상승률 1위 리포트",
+    "summary": "저트라는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩19.4",
+    "volumeText": "184.4억원",
+    "changeText": "+55.20%",
+    "url": "/posts/2026-06-10-strax.html"
+  },
+  {
     "date": "2026-06-09",
     "symbol": "MOVE",
     "koreanName": "무브먼트",
