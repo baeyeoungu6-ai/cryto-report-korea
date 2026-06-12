@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-12",
+    "symbol": "SOPH",
+    "koreanName": "소폰",
+    "rank": 1,
+    "title": "소폰(SOPH) 업비트 상승률 1위 리포트",
+    "summary": "소폰은 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩9.65",
+    "volumeText": "165.7억원",
+    "changeText": "+17.68%",
+    "url": "/posts/2026-06-12-soph.html"
+  },
+  {
     "date": "2026-06-11",
     "symbol": "ASTR",
     "koreanName": "아스타",
