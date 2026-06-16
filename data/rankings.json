@@ -1,82 +1,82 @@
 [
   {
     "rank": 1,
-    "symbol": "KERNEL",
-    "koreanName": "커널다오",
-    "priceText": "₩90.7",
-    "volumeText": "129.1억원",
-    "changeText": "+17.95%"
+    "symbol": "STRAX",
+    "koreanName": "저트라",
+    "priceText": "₩16.6",
+    "volumeText": "150.9억원",
+    "changeText": "+17.73%"
   },
   {
     "rank": 2,
-    "symbol": "WLD",
-    "koreanName": "월드코인",
-    "priceText": "₩894",
-    "volumeText": "1365.9억원",
-    "changeText": "+13.45%"
+    "symbol": "WAVES",
+    "koreanName": "웨이브",
+    "priceText": "₩469",
+    "volumeText": "129.2억원",
+    "changeText": "+15.52%"
   },
   {
     "rank": 3,
-    "symbol": "ZRO",
-    "koreanName": "레이어제로",
-    "priceText": "₩1,594",
-    "volumeText": "20.0억원",
-    "changeText": "+10.39%"
+    "symbol": "SENT",
+    "koreanName": "센티언트",
+    "priceText": "₩24.2",
+    "volumeText": "7.5억원",
+    "changeText": "+7.56%"
   },
   {
     "rank": 4,
-    "symbol": "WET",
-    "koreanName": "휴미디파이",
-    "priceText": "₩98.9",
-    "volumeText": "54.6억원",
-    "changeText": "+10.26%"
+    "symbol": "XPL",
+    "koreanName": "플라즈마",
+    "priceText": "₩144",
+    "volumeText": "79.1억원",
+    "changeText": "+6.67%"
   },
   {
     "rank": 5,
-    "symbol": "WAL",
-    "koreanName": "월러스",
-    "priceText": "₩55.9",
-    "volumeText": "31.1억원",
-    "changeText": "+7.50%"
+    "symbol": "CTC",
+    "koreanName": "크레딧코인",
+    "priceText": "₩152",
+    "volumeText": "14.5억원",
+    "changeText": "+5.56%"
   },
   {
     "rank": 6,
-    "symbol": "CHIP",
-    "koreanName": "유에스디에이아이",
-    "priceText": "₩59.5",
-    "volumeText": "160.6억원",
-    "changeText": "+6.63%"
+    "symbol": "ZAMA",
+    "koreanName": "자마",
+    "priceText": "₩49",
+    "volumeText": "8.1억원",
+    "changeText": "+5.38%"
   },
   {
     "rank": 7,
-    "symbol": "NEAR",
-    "koreanName": "니어프로토콜",
-    "priceText": "₩3,541",
-    "volumeText": "196.2억원",
-    "changeText": "+5.95%"
+    "symbol": "SPX",
+    "koreanName": "에스피엑스6900",
+    "priceText": "₩601",
+    "volumeText": "214.3억원",
+    "changeText": "+3.80%"
   },
   {
     "rank": 8,
-    "symbol": "JTO",
-    "koreanName": "지토",
-    "priceText": "₩892",
-    "volumeText": "66.3억원",
-    "changeText": "+5.81%"
+    "symbol": "JUP",
+    "koreanName": "주피터",
+    "priceText": "₩296",
+    "volumeText": "16.1억원",
+    "changeText": "+3.50%"
   },
   {
     "rank": 9,
-    "symbol": "IO",
-    "koreanName": "아이오넷",
-    "priceText": "₩284",
-    "volumeText": "8.5억원",
-    "changeText": "+5.58%"
+    "symbol": "MANTRA",
+    "koreanName": "만트라",
+    "priceText": "₩12.4",
+    "volumeText": "32.4억원",
+    "changeText": "+3.33%"
   },
   {
     "rank": 10,
-    "symbol": "JUP",
-    "koreanName": "주피터",
-    "priceText": "₩285",
-    "volumeText": "8.1억원",
-    "changeText": "+5.56%"
+    "symbol": "MOVE",
+    "koreanName": "무브먼트",
+    "priceText": "₩18.8",
+    "volumeText": "90.4억원",
+    "changeText": "+3.30%"
   }
 ]
