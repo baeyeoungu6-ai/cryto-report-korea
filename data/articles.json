@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-17",
+    "symbol": "SPX",
+    "koreanName": "에스피엑스6900",
+    "rank": 1,
+    "title": "에스피엑스6900(SPX) 업비트 상승률 1위 리포트",
+    "summary": "에스피엑스6900는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩711",
+    "volumeText": "876.5억원",
+    "changeText": "+21.54%",
+    "url": "/posts/2026-06-17-spx.html"
+  },
+  {
     "date": "2026-06-16",
     "symbol": "WAVES",
     "koreanName": "웨이브",
