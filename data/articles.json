@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-18",
+    "symbol": "MEGA",
+    "koreanName": "메가이더",
+    "rank": 1,
+    "title": "메가이더(MEGA) 업비트 상승률 1위 리포트",
+    "summary": "메가이더는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩95.3",
+    "volumeText": "240.7억원",
+    "changeText": "+10.69%",
+    "url": "/posts/2026-06-18-mega.html"
+  },
+  {
     "date": "2026-06-17",
     "symbol": "SPX",
     "koreanName": "에스피엑스6900",
