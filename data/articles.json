@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-19",
+    "symbol": "MET2",
+    "koreanName": "메테오라",
+    "rank": 1,
+    "title": "메테오라(MET2) 업비트 상승률 1위 리포트",
+    "summary": "메테오라는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩198",
+    "volumeText": "102.1억원",
+    "changeText": "+22.98%",
+    "url": "/posts/2026-06-19-met2.html"
+  },
+  {
     "date": "2026-06-18",
     "symbol": "MEGA",
     "koreanName": "메가이더",
