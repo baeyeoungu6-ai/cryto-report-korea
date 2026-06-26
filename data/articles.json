@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-26",
+    "symbol": "TT",
+    "koreanName": "썬더코어",
+    "rank": 1,
+    "title": "썬더코어(TT) 업비트 상승률 1위 리포트",
+    "summary": "썬더코어는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩1.07",
+    "volumeText": "185.1억원",
+    "changeText": "+15.68%",
+    "url": "/posts/2026-06-26-tt.html"
+  },
+  {
     "date": "2026-06-25",
     "symbol": "UP2",
     "koreanName": "슈퍼폼",
