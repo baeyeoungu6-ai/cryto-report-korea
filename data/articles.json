@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-30",
+    "symbol": "TAIKO",
+    "koreanName": "타이코",
+    "rank": 1,
+    "title": "타이코(TAIKO) 업비트 상승률 1위 리포트",
+    "summary": "타이코는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩123",
+    "volumeText": "72.5억원",
+    "changeText": "+21.78%",
+    "url": "/posts/2026-06-30-taiko.html"
+  },
+  {
     "date": "2026-06-29",
     "symbol": "POWR",
     "koreanName": "파워렛저",
