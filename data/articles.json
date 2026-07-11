@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-11",
+    "symbol": "IOTA",
+    "koreanName": "아이오타",
+    "rank": 2,
+    "title": "아이오타(IOTA) 업비트 상승률 2위 리포트",
+    "summary": "아이오타는 오늘 업비트 KRW 마켓 상승률 2위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩62.5",
+    "volumeText": "204.9억원",
+    "changeText": "+6.84%",
+    "url": "/posts/2026-07-11-iota.html"
+  },
+  {
     "date": "2026-07-10",
     "symbol": "OPG",
     "koreanName": "오픈그라디언트",
