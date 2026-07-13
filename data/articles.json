@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-13",
+    "symbol": "XEC",
+    "koreanName": "이캐시",
+    "rank": 1,
+    "title": "이캐시(XEC) 업비트 상승률 1위 리포트",
+    "summary": "이캐시는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩0.01",
+    "volumeText": "97.1억원",
+    "changeText": "+12.96%",
+    "url": "/posts/2026-07-13-xec.html"
+  },
+  {
     "date": "2026-07-12",
     "symbol": "T",
     "koreanName": "쓰레스홀드",
