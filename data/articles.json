@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-23",
+    "symbol": "ZAMA",
+    "koreanName": "자마",
+    "rank": 3,
+    "title": "자마(ZAMA) 업비트 상승률 3위 리포트",
+    "summary": "자마는 오늘 업비트 KRW 마켓 상승률 3위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩73.4",
+    "volumeText": "151.5억원",
+    "changeText": "+5.46%",
+    "url": "/posts/2026-07-23-zama.html"
+  },
+  {
     "date": "2026-07-22",
     "symbol": "MIRA",
     "koreanName": "미라네트워크",
