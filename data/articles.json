@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-28",
+    "symbol": "FLUID",
+    "koreanName": "플루이드",
+    "rank": 6,
+    "title": "플루이드(FLUID) 업비트 상승률 6위 리포트",
+    "summary": "플루이드는 오늘 업비트 KRW 마켓 상승률 6위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩1,754",
+    "volumeText": "4.4억원",
+    "changeText": "+4.34%",
+    "url": "/posts/2026-07-28-fluid.html"
+  },
+  {
     "date": "2026-07-27",
     "symbol": "IRYS",
     "koreanName": "아이리스",
