@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-03",
+    "symbol": "STORJ",
+    "koreanName": "스토리지",
+    "rank": 1,
+    "title": "스토리지(STORJ) 업비트 상승률 1위 리포트",
+    "summary": "스토리지는 오늘 업비트 KRW 마켓 상승률 1위입니다. 가격, 거래대금, 단기 체크 포인트를 정리했습니다.",
+    "priceText": "₩77",
+    "volumeText": "87.0억원",
+    "changeText": "+12.74%",
+    "url": "/posts/2026-08-03-storj.html"
+  },
+  {
     "date": "2026-08-02",
     "symbol": "HYPER",
     "koreanName": "하이퍼레인",
